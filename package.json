@@ -1,0 +1,30 @@
+{
+  "name": "automated.love",
+  "description": "Automated Love",
+  "version": "0.0.0",
+  "homepage": "https://github.com/finiteadventures/automated.love",
+  "author": {
+    "name": "Sarah Quigley",
+    "email": "sarah@sarahquigley.net",
+    "url": "http://sarahquigley.net"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finiteadventures/automated.love.git"
+  },
+  "private": false,
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "~1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-webserver": "^0.9.1",
+    "gulp-wiredep": "^1.2.0"
+  },
+  "scripts": {
+    "postinstall": "bower install; bower update"
+  }
+}

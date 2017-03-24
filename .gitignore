@@ -1,0 +1,11 @@
+/bower_components/
+/app/bower_components/
+/node_modules/
+/.dev/
+/build/
+/.sass-cache/
+/.grunt/
+/coverage/
+.DS_Store
+*.swo
+*.swp

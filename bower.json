@@ -1,0 +1,27 @@
+{
+  "name": "automated.love",
+  "description": "Automated Love",
+  "version": "0.0.0",
+  "homepage": "https://github.com/finiteadventures/automated.love",
+  "author": {
+    "name": "Sarah Quigley",
+    "email": "sarah@sarahquigley.net",
+    "url": "http://sarahquigley.net"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finiteadventures/automated.love.git"
+  },
+  "private": false,
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
